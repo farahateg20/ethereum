@@ -1,0 +1,83 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container {
+  position: absolute;
+  width: 1400px;
+  height: 900px;
+  background: hsl(217, 54%, 11%);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.card {
+  position: relative;
+  width: 350px;
+  height: 600px;
+  background: hsl(216, 50%, 16%);
+  top: 150px;
+  left: 545px;
+  border-radius: 20px;
+}
+
+.equ {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  top: 25px;
+  left: 25px;
+}
+
+.title {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 10px;
+  padding-left: 1.5rem;
+  padding-top: 3rem;
+}
+
+.sub {
+  color: darkgray;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  padding-left: 1.5rem;
+}
+
+p {
+  color: darkgray;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  padding-left: 1.5rem;
+}
+
+.coin {
+  float: left;
+}
+
+.clock {
+  float: right;
+  padding-right: 1.5rem;
+}
+
+.avatar {
+  float: left;
+  width: 32px;
+  height: 32px;
+}
+
+hr {
+  width: 85%;
+  text-align: center;
+  color: darkgray;
+}
+
+span {
+  margin-left: 0.5rem;
+}
